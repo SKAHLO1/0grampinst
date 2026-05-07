@@ -32,7 +32,7 @@ export default function App() {
               {/* Quick Links */}
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 mt-8">
                 <a
-                  href="https://0-g-ramp.vercel.app/"
+                  href="https://ogramp.vercel.app/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center justify-center gap-2 bg-blue-600 text-white px-6 py-3 rounded-xl hover:bg-blue-700 transition-colors"
@@ -319,7 +319,7 @@ export default function App() {
 
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 max-w-3xl mx-auto">
                 <a
-                  href="https://0-g-ramp.vercel.app/"
+                  href="https://ogramp.vercel.app/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center justify-center gap-2 bg-white text-blue-600 px-6 py-3 rounded-xl hover:bg-blue-50 transition-colors"
